@@ -4,4 +4,7 @@ Este es el repositorio del proyecto Euler desarrollado en python 3
 Find the sum of all the multiples of 3 or 5 below 1000.
 
 Author: Aurora Sánchez
-aurora.sanchez@live.com.mx
+
+Email: aurora.sanchez@live.com.mx
+
+LinkedIn: https://www.linkedin.com/in/aurora-antonia-sanchez-calva/
