@@ -43,7 +43,7 @@ print(f'Respuesta: {option2} Tiempo de ejecución: {execution_time1}')
 
 value = execution_time < execution_time1
 
-print (f'Opción 1 tiene menor tiempo que opción 2: {value}')
+print (f'Opción 1 tiene menor tiempo de ejecución que opción 2: {value}')
 
 #Run: python3 1.py
 
