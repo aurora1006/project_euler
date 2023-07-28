@@ -9,8 +9,9 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
     By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
-Author: Aurora Sánchez
 
-Email: aurora.sanchez@live.com.mx
+## Author: Aurora Sánchez
 
-LinkedIn: https://www.linkedin.com/in/aurora-antonia-sanchez-calva/
+## Email: aurora.sanchez@live.com.mx
+
+## LinkedIn: https://www.linkedin.com/in/aurora-antonia-sanchez-calva/
